@@ -21,17 +21,17 @@ const Navbar = () => {
                 Home
               </li>
             </Link>
-            <Link href="/">
+            <Link href="/#skills">
               <li className="hover:text-white cursor-pointer rounded-md px-4 py-[0.30rem] text-xl duration-100 hover:bg-zinc-800">
                 Skills
               </li>
             </Link>
-            <Link href="/">
+            <Link href="/#projects">
               <li className="hover:text-white cursor-pointer rounded-md px-4 py-[0.30rem] text-xl duration-100 hover:bg-zinc-800">
                 Projects
               </li>
             </Link>
-            <Link href="/">
+            <Link href="/#contact">
               <li className="hover:text-white cursor-pointer rounded-md px-4 py-[0.30rem] text-xl duration-100 hover:bg-zinc-800">
                 Contact
               </li>
@@ -91,12 +91,12 @@ const Navbar = () => {
                   Skills
                 </li>
               </Link>
-              <Link href="/">
+              <Link href="/#projects">
                 <li className="hover:text-white cursor-pointer rounded-md px-4 py-[0.30rem] text-2xl duration-100 hover:bg-zinc-800 my-10">
                   Projects
                 </li>
               </Link>
-              <Link href="/">
+              <Link href="/#contact">
                 <li className="hover:text-white cursor-pointer rounded-md px-4 py-[0.30rem] text-2xl duration-100 hover:bg-zinc-800 my-10">
                   Contact
                 </li>
