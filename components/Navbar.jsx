@@ -63,7 +63,7 @@ const Navbar = () => {
       </div>
       <div
         className={
-          nav ? "fixed left-0 top-0 w-full h-screen bg-black/60 sm:hidden z-10" : ""
+          nav ? "fixed left-0 top-0 w-full h-screen bg-black/60 sm:hidden z-[99]" : ""
         }
       >
         <div
