@@ -29,6 +29,7 @@ const Navbar = () => {
               </li>
             </Link>
             <Link
+              href="#skills"
               to="skills"
               spy={true}
               smooth={true}
@@ -40,6 +41,7 @@ const Navbar = () => {
               </li>
             </Link>
             <Link
+              href="#projects"
               to="projects"
               spy={true}
               smooth={true}
@@ -51,6 +53,7 @@ const Navbar = () => {
               </li>
             </Link>
             <Link
+              href="#contact"
               to="contact"
               spy={true}
               smooth={true}
@@ -109,6 +112,7 @@ const Navbar = () => {
           <div className="px-5">
             <ul className=" uppercase font-sen" onClick={handleNav}>
               <Link
+                href="/"
                 to="home"
                 spy={true}
                 smooth={true}
@@ -123,6 +127,7 @@ const Navbar = () => {
                 </li>
               </Link>
               <Link
+                href="#skills"
                 to="skills"
                 spy={true}
                 smooth={true}
@@ -137,6 +142,7 @@ const Navbar = () => {
                 </li>
               </Link>
               <Link
+                href="#projects"
                 to="projects"
                 spy={true}
                 smooth={true}
