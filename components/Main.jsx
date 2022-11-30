@@ -8,10 +8,10 @@ const Main = () => {
           <h1 className="py-2 text-2xl sm:text-3xl sm:px-4 md:text-3xl">
             Hi, I'm Safeat, a web developer
           </h1>
-          <p className="py-2 text-[#7a7f87] m-auto text-start text-xl  sm:px-4">
+          <p className="py-2 text-[#A1A1A1] m-auto text-start text-xl  sm:px-4">
             Frontend web developer.
           </p>
-          <p className="py-2 text-[#7a7f87] text-start text-md sm:text-lg sm:px-4">
+          <p className="py-2 text-[#A1A1A1] text-start text-md sm:text-lg sm:px-4">
             I make clean & responsive web apps.
           </p>
           <a
