@@ -15,7 +15,7 @@ const Navbar = () => {
           <div className="bg-logo h-[50px] w-[120px] bg-white bg-center"></div>
         </div>
         <div>
-          <ul className="font-sen hidden sm:flex pl-5 ">
+          <ul className="font-sen hidden sm:flex">
             <Link
               href="/"
               to="home"
